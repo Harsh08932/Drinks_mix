@@ -8,7 +8,7 @@ const Navbar = () => {
     <Wrapper>
       <nav>
         <div className="nav-center">
-          <span className="logo">MixMaster</span>
+          <span className="logo">Drink Mix</span>
           <div className="nav-links">
             <NavLink to="/" className="nav-link">
               Home
